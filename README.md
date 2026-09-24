@@ -2,7 +2,7 @@
 
 **The companies that actually sponsor H-1B visas for software, data, AI and product roles — ranked by how many they filed, whether they hire people who need a first visa or mostly transfers, and what they pay.** Updated daily.
 
-> Last updated **2026-09-24** · 1,196 employers with tech filings · 19,947 open tech roles checked for sponsorship at 304 companies
+> Last updated **2026-09-24** · 1,196 employers with tech filings · 21,357 open tech roles checked for sponsorship at 378 companies
 
 Most job postings say nothing about sponsorship — roughly 9 in every 10. So the useful question isn't what a posting says; it's what the employer has actually filed. This list is built from employers' own certified H-1B filings for tech roles.
 
@@ -14,11 +14,11 @@ Most job postings say nothing about sponsorship — roughly 9 in every 10. So th
 
 | # | Company | Tech filings | Hires | Median salary | Open roles | |
 |---:|---|---:|---|---:|---:|---|
-| 1 | Amazon | 15,139 | Mostly new hires | $163,322 | 1,881 | [record →](https://visaroles.com/companies/amazon?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 2 | Google | 6,336 | Mostly new hires | $194,000 | 871 | [record →](https://visaroles.com/companies/google?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 1 | Amazon | 15,139 | Mostly new hires | $163,322 | 1,816 | [record →](https://visaroles.com/companies/amazon?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 2 | Google | 6,336 | Mostly new hires | $194,000 | 845 | [record →](https://visaroles.com/companies/google?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 3 | Cognizant Technology Solutions US | 5,635 | Mostly transfers | $110,947 | — | [record →](https://visaroles.com/companies/cognizant-technology-solutions-us?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 4 | Meta | 4,477 | Mostly new hires | $214,032 | — | [record →](https://visaroles.com/companies/meta?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 5 | Microsoft | 4,449 | Both | $178,076 | 513 | [record →](https://visaroles.com/companies/microsoft?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 5 | Microsoft | 4,449 | Both | $178,076 | 527 | [record →](https://visaroles.com/companies/microsoft?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 6 | Infosys | 4,124 | Mostly new hires | $92,581 | — | [record →](https://visaroles.com/companies/infosys?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 7 | Tata Consultancy Services | 2,850 | Both | $92,394 | — | [record →](https://visaroles.com/companies/tata-consultancy-services?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 8 | Deloitte | 2,762 | Both | $137,700 | — | [record →](https://visaroles.com/companies/deloitte?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
@@ -27,12 +27,12 @@ Most job postings say nothing about sponsorship — roughly 9 in every 10. So th
 | 11 | Fidelity Investments | 2,185 | Both | $125,298 | 105 | [record →](https://visaroles.com/companies/fidelity-investments?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 12 | Walmart | 2,069 | Mostly new hires | $148,407 | — | [record →](https://visaroles.com/companies/walmart?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 13 | Compunnel Software Group | 1,918 | Mostly transfers | $113,000 | — | [record →](https://visaroles.com/companies/compunnel-software-group?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 14 | JPMorgan Chase | 1,833 | Mostly new hires | $159,100 | 412 | [record →](https://visaroles.com/companies/jpmorgan-chase?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 14 | JPMorgan Chase | 1,833 | Mostly new hires | $159,100 | 416 | [record →](https://visaroles.com/companies/jpmorgan-chase?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 15 | Wipro | 1,428 | Mostly transfers | $108,680 | — | [record →](https://visaroles.com/companies/wipro?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 16 | Capgemini America | 1,418 | Both | $130,971 | — | [record →](https://visaroles.com/companies/capgemini-america?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 17 | Salesforce | 1,376 | Both | $195,808 | 117 | [record →](https://visaroles.com/companies/salesforce?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 18 | HCL Technologies | 1,358 | Mostly new hires | $120,988 | — | [record →](https://visaroles.com/companies/hcl-technologies?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 19 | Capital One | 1,333 | Mostly new hires | $143,395 | 718 | [record →](https://visaroles.com/companies/capital-one?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 19 | Capital One | 1,333 | Mostly new hires | $143,395 | 723 | [record →](https://visaroles.com/companies/capital-one?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 20 | Accenture | 1,289 | Both | $144,200 | — | [record →](https://visaroles.com/companies/accenture?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 21 | Nvidia | 1,266 | Both | $184,000 | 545 | [record →](https://visaroles.com/companies/nvidia?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 22 | LTIMindtree | 1,227 | Mostly transfers | $100,798 | — | [record →](https://visaroles.com/companies/ltimindtree?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
@@ -40,13 +40,13 @@ Most job postings say nothing about sponsorship — roughly 9 in every 10. So th
 | 24 | Mphasis | 978 | Mostly transfers | $120,000 | — | [record →](https://visaroles.com/companies/mphasis?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 25 | Adobe | 911 | Mostly new hires | $184,515 | 178 | [record →](https://visaroles.com/companies/adobe?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 26 | LinkedIn | 908 | Mostly new hires | $179,079 | — | [record →](https://visaroles.com/companies/linkedin?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 27 | Cisco Systems | 900 | Mostly new hires | $152,500 | 230 | [record →](https://visaroles.com/companies/cisco-systems?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 27 | Cisco Systems | 900 | Mostly new hires | $152,500 | 241 | [record →](https://visaroles.com/companies/cisco-systems?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 28 | Citibank, N.A. | 810 | Both | $157,957 | — | [record →](https://visaroles.com/companies/citibank-n-a?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 29 | TT Commerce & Global Services | 766 | Mostly transfers | $202,000 | — | [record →](https://visaroles.com/companies/tt-commerce-and-global-services?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 30 | Randstad Digital | 714 | Both | $130,302 | — | [record →](https://visaroles.com/companies/randstad-digital?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 31 | CVS Health | 687 | Both | $134,000 | 108 | [record →](https://visaroles.com/companies/cvs-health?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 32 | IBM | 670 | Mostly new hires | $156,998 | — | [record →](https://visaroles.com/companies/ibm?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 33 | Oracle | 665 | Both | $140,026 | 317 | [record →](https://visaroles.com/companies/oracle-america?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 33 | Oracle | 665 | Both | $140,026 | 328 | [record →](https://visaroles.com/companies/oracle-america?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 34 | Tesla | 575 | Mostly new hires | $188,000 | — | [record →](https://visaroles.com/companies/tesla?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 35 | PayPal | 574 | Mostly new hires | $171,000 | 48 | [record →](https://visaroles.com/companies/paypal?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 36 | Kforce | 559 | Both | $116,709 | — | [record →](https://visaroles.com/companies/kforce?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
@@ -56,25 +56,25 @@ Most job postings say nothing about sponsorship — roughly 9 in every 10. So th
 | 40 | PricewaterhouseCoopers Advisory | 498 | Mostly new hires | $175,000 | 4 | [record →](https://visaroles.com/companies/pricewaterhousecoopers-advisory-services?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 41 | Visa | 492 | Mostly new hires | $149,240 | 108 | [record →](https://visaroles.com/companies/visa?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 42 | Gp Technologies | 489 | Mostly transfers | $97,060 | — | [record →](https://visaroles.com/companies/gp-technologies?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 43 | Intel | 486 | Mostly new hires | $142,059 | 74 | [record →](https://visaroles.com/companies/intel?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 43 | Intel | 486 | Mostly new hires | $142,059 | 75 | [record →](https://visaroles.com/companies/intel?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 44 | UST Global | 483 | Both | $113,548 | — | [record →](https://visaroles.com/companies/ust-global?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 45 | Morgan Stanley | 478 | Both | $163,650 | 94 | [record →](https://visaroles.com/companies/morgan-stanley-services-group?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 46 | Government Employee Insurance Company (GEICO) | 457 | Both | $175,000 | — | [record →](https://visaroles.com/companies/government-employee-insurance-company-geico?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 47 | Virtusa | 457 | Mostly transfers | $123,355 | — | [record →](https://visaroles.com/companies/virtusa?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 46 | Virtusa | 457 | Mostly transfers | $123,355 | — | [record →](https://visaroles.com/companies/virtusa?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 47 | Government Employee Insurance Company (GEICO) | 457 | Both | $175,000 | — | [record →](https://visaroles.com/companies/government-employee-insurance-company-geico?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 48 | TikTok | 449 | Both | $230,000 | 789 | [record →](https://visaroles.com/companies/tiktok?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 49 | Federal Express | 437 | Both | $121,554 | — | [record →](https://visaroles.com/companies/federal-express?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 50 | ByteDance | 435 | Mostly new hires | $240,000 | — | [record →](https://visaroles.com/companies/bytedance?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 51 | Hewlett Packard Enterprise | 435 | Mostly new hires | $147,512 | 151 | [record →](https://visaroles.com/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 52 | Tech Mahindra (Americas) | 432 | Mostly transfers | $112,382 | — | [record →](https://visaroles.com/companies/tech-mahindra-americas?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 53 | Barclays | 418 | Mostly new hires | $155,000 | 34 | [record →](https://visaroles.com/companies/barclays?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 53 | ServiceNow | 418 | Mostly new hires | $149,084 | 156 | [record →](https://visaroles.com/companies/servicenow?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 54 | Qualcomm | 418 | Both | $149,240 | — | [record →](https://visaroles.com/companies/qualcomm?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 55 | ServiceNow | 418 | Mostly new hires | $149,084 | 156 | [record →](https://visaroles.com/companies/servicenow?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 55 | Barclays | 418 | Mostly new hires | $155,000 | 34 | [record →](https://visaroles.com/companies/barclays?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 56 | SAP | 410 | Both | $159,272 | — | [record →](https://visaroles.com/companies/sap?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 57 | Ford | 406 | Both | $128,710 | 156 | [record →](https://visaroles.com/companies/ford?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 58 | Intuit | 401 | Both | $175,624 | — | [record →](https://visaroles.com/companies/intuit?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 59 | U.S. | 396 | Mostly transfers | $129,042 | 54 | [record →](https://visaroles.com/companies/u-s-bank-national-association?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 60 | Databricks | 390 | Both | $156,998 | 189 | [record →](https://visaroles.com/companies/databricks?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 61 | At&T | 385 | Both | $167,692 | 29 | [record →](https://visaroles.com/companies/at-and-t-services?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 61 | At&T | 385 | Both | $167,692 | 30 | [record →](https://visaroles.com/companies/at-and-t-services?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 62 | eBay | 379 | Both | $194,600 | — | [record →](https://visaroles.com/companies/ebay?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 63 | American Express | 363 | Both | $152,796 | — | [record →](https://visaroles.com/companies/american-express?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 64 | General Motors | 360 | Mostly transfers | $155,000 | 331 | [record →](https://visaroles.com/companies/general-motors?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
@@ -85,8 +85,8 @@ Most job postings say nothing about sponsorship — roughly 9 in every 10. So th
 | 69 | Synechron | 334 | Mostly transfers | $119,910 | — | [record →](https://visaroles.com/companies/synechron?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 70 | Wells Fargo | 333 | Both | $143,000 | 67 | [record →](https://visaroles.com/companies/wells-fargo-bank-n-a?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 71 | NTT DATA | 320 | Both | $123,427 | — | [record →](https://visaroles.com/companies/ntt-data?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 72 | Bank Of America N.A. | 315 | Mostly new hires | $156,998 | 73 | [record →](https://visaroles.com/companies/bank-of-america-n-a?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 73 | DoorDash | 315 | Both | $170,600 | 84 | [record →](https://visaroles.com/companies/doordashusa?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 72 | DoorDash | 315 | Both | $170,600 | 84 | [record →](https://visaroles.com/companies/doordashusa?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 73 | Bank Of America N.A. | 315 | Mostly new hires | $156,998 | 73 | [record →](https://visaroles.com/companies/bank-of-america-n-a?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 74 | Charles Schwab & Company | 309 | Both | $156,600 | — | [record →](https://visaroles.com/companies/charles-schwab-and-company?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 75 | Optum Services | 308 | Mostly new hires | $127,837 | — | [record →](https://visaroles.com/companies/optum-services?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 76 | Netflix | 307 | Both | $237,786 | 162 | [record →](https://visaroles.com/companies/netflix?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
@@ -111,8 +111,8 @@ Most job postings say nothing about sponsorship — roughly 9 in every 10. So th
 | 95 | V-Soft Consulting Group | 247 | Mostly transfers | $108,000 | — | [record →](https://visaroles.com/companies/v-soft-consulting-group?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 96 | Skilltune Technologies | 243 | Mostly transfers | $98,000 | — | [record →](https://visaroles.com/companies/skilltune-technologies?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 97 | The Home Depot | 243 | Both | $143,222 | — | [record →](https://visaroles.com/companies/home-depot?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 98 | Quadrant Technologies | 242 | Both | $109,564 | — | [record →](https://visaroles.com/companies/quadrant-technologies?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 99 | Waymo | 242 | Both | $205,000 | 177 | [record →](https://visaroles.com/companies/waymo?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 98 | Waymo | 242 | Both | $205,000 | 177 | [record →](https://visaroles.com/companies/waymo?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 99 | Quadrant Technologies | 242 | Both | $109,564 | — | [record →](https://visaroles.com/companies/quadrant-technologies?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 100 | Nokia of America | 237 | Mostly new hires | $145,266 | — | [record →](https://visaroles.com/companies/nokia-of-america?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 
 [See all 1,196 sponsors, ranked and filterable →](https://visaroles.com/h1b-sponsors?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors)
@@ -139,30 +139,30 @@ Companies with the most open tech roles today, every one checked for sponsorship
 
 | Company | Open tech roles | Tech filings | |
 |---|---:|---:|---|
-| Amazon | 1,881 | 15,139 | [see roles →](https://visaroles.com/companies/amazon?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Google | 871 | 6,336 | [see roles →](https://visaroles.com/companies/google?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Amazon | 1,816 | 15,139 | [see roles →](https://visaroles.com/companies/amazon?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Google | 845 | 6,336 | [see roles →](https://visaroles.com/companies/google?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | TikTok | 789 | 449 | [see roles →](https://visaroles.com/companies/tiktok?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Capital One | 718 | 1,333 | [see roles →](https://visaroles.com/companies/capital-one?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Capital One | 723 | 1,333 | [see roles →](https://visaroles.com/companies/capital-one?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Nvidia | 545 | 1,266 | [see roles →](https://visaroles.com/companies/nvidia?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Microsoft | 513 | 4,449 | [see roles →](https://visaroles.com/companies/microsoft?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Microsoft | 527 | 4,449 | [see roles →](https://visaroles.com/companies/microsoft?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | SpaceX | 497 | — | [see roles →](https://visaroles.com/companies/spacex?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Rockwell Collins | 425 | 107 | [see roles →](https://visaroles.com/companies/rockwell-collins?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| JPMorgan Chase | 412 | 1,833 | [see roles →](https://visaroles.com/companies/jpmorgan-chase?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Rockwell Collins | 426 | 107 | [see roles →](https://visaroles.com/companies/rockwell-collins?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| JPMorgan Chase | 416 | 1,833 | [see roles →](https://visaroles.com/companies/jpmorgan-chase?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | General Motors | 331 | 360 | [see roles →](https://visaroles.com/companies/general-motors?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Oracle | 317 | 665 | [see roles →](https://visaroles.com/companies/oracle-america?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Oracle | 328 | 665 | [see roles →](https://visaroles.com/companies/oracle-america?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | OpenAI | 315 | 154 | [see roles →](https://visaroles.com/companies/openai?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Anthropic | 248 | 158 | [see roles →](https://visaroles.com/companies/anthropic?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Cisco Systems | 230 | 900 | [see roles →](https://visaroles.com/companies/cisco-systems?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Cisco Systems | 241 | 900 | [see roles →](https://visaroles.com/companies/cisco-systems?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Apple | 193 | 2,727 | [see roles →](https://visaroles.com/companies/apple?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Databricks | 189 | 390 | [see roles →](https://visaroles.com/companies/databricks?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Adobe | 178 | 911 | [see roles →](https://visaroles.com/companies/adobe?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Waymo | 177 | 242 | [see roles →](https://visaroles.com/companies/waymo?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Stripe | 171 | 192 | [see roles →](https://visaroles.com/companies/stripe?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Mastercard | 168 | 203 | [see roles →](https://visaroles.com/companies/mastercard?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Motorola Solutions | 166 | 78 | [see roles →](https://visaroles.com/companies/motorola-solutions?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Roblox | 166 | 164 | [see roles →](https://visaroles.com/companies/roblox?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Motorola Solutions | 165 | 78 | [see roles →](https://visaroles.com/companies/motorola-solutions?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Netflix | 162 | 307 | [see roles →](https://visaroles.com/companies/netflix?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Micron Technology | 159 | 68 | [see roles →](https://visaroles.com/companies/micron-technology?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Micron Technology | 160 | 68 | [see roles →](https://visaroles.com/companies/micron-technology?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | ServiceNow | 156 | 418 | [see roles →](https://visaroles.com/companies/servicenow?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 
 [Browse every sponsor-checked role →](https://visaroles.com/jobs?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors)
