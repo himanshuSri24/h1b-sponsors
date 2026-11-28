@@ -2,7 +2,7 @@
 
 **The companies that actually sponsor H-1B visas for software, data, AI and product roles — ranked by how many they filed, whether they hire people who need a first visa or mostly transfers, and what they pay.** Updated daily.
 
-> Last updated **2026-11-27** · 1,196 employers with tech filings · 19,938 open tech roles checked for sponsorship at 361 companies
+> Last updated **2026-11-28** · 1,196 employers with tech filings · 19,842 open tech roles checked for sponsorship at 363 companies
 
 Most job postings say nothing about sponsorship — roughly 9 in every 10. So the useful question isn't what a posting says; it's what the employer has actually filed. This list is built from employers' own certified H-1B filings for tech roles.
 
@@ -63,12 +63,12 @@ Most job postings say nothing about sponsorship — roughly 9 in every 10. So th
 | 47 | Government Employee Insurance Company (GEICO) | 457 | Both | $175,000 | — | [record →](https://visaroles.com/companies/government-employee-insurance-company-geico?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 48 | TikTok | 449 | Both | $230,000 | 690 | [record →](https://visaroles.com/companies/tiktok?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 49 | Federal Express | 437 | Both | $121,554 | — | [record →](https://visaroles.com/companies/federal-express?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 50 | ByteDance | 435 | Mostly new hires | $240,000 | — | [record →](https://visaroles.com/companies/bytedance?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 51 | Hewlett Packard Enterprise | 435 | Mostly new hires | $147,512 | 197 | [record →](https://visaroles.com/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 50 | Hewlett Packard Enterprise | 435 | Mostly new hires | $147,512 | 199 | [record →](https://visaroles.com/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 51 | ByteDance | 435 | Mostly new hires | $240,000 | — | [record →](https://visaroles.com/companies/bytedance?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 52 | Tech Mahindra (Americas) | 432 | Mostly transfers | $112,382 | — | [record →](https://visaroles.com/companies/tech-mahindra-americas?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 53 | Barclays | 418 | Mostly new hires | $155,000 | 28 | [record →](https://visaroles.com/companies/barclays?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 53 | Qualcomm | 418 | Both | $149,240 | — | [record →](https://visaroles.com/companies/qualcomm?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 54 | ServiceNow | 418 | Mostly new hires | $149,084 | 199 | [record →](https://visaroles.com/companies/servicenow?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 55 | Qualcomm | 418 | Both | $149,240 | — | [record →](https://visaroles.com/companies/qualcomm?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 55 | Barclays | 418 | Mostly new hires | $155,000 | 28 | [record →](https://visaroles.com/companies/barclays?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 56 | SAP | 410 | Both | $159,272 | — | [record →](https://visaroles.com/companies/sap?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 57 | Ford | 406 | Both | $128,710 | 152 | [record →](https://visaroles.com/companies/ford?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 58 | Intuit | 401 | Both | $175,624 | — | [record →](https://visaroles.com/companies/intuit?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
@@ -111,8 +111,8 @@ Most job postings say nothing about sponsorship — roughly 9 in every 10. So th
 | 95 | V-Soft Consulting Group | 247 | Mostly transfers | $108,000 | — | [record →](https://visaroles.com/companies/v-soft-consulting-group?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 96 | Skilltune Technologies | 243 | Mostly transfers | $98,000 | — | [record →](https://visaroles.com/companies/skilltune-technologies?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 97 | The Home Depot | 243 | Both | $143,222 | — | [record →](https://visaroles.com/companies/home-depot?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 98 | Waymo | 242 | Both | $205,000 | 158 | [record →](https://visaroles.com/companies/waymo?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| 99 | Quadrant Technologies | 242 | Both | $109,564 | — | [record →](https://visaroles.com/companies/quadrant-technologies?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 98 | Quadrant Technologies | 242 | Both | $109,564 | — | [record →](https://visaroles.com/companies/quadrant-technologies?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| 99 | Waymo | 242 | Both | $205,000 | 158 | [record →](https://visaroles.com/companies/waymo?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | 100 | Nokia of America | 237 | Mostly new hires | $145,266 | — | [record →](https://visaroles.com/companies/nokia-of-america?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 
 [See all 1,196 sponsors, ranked and filterable →](https://visaroles.com/h1b-sponsors?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors)
@@ -145,17 +145,17 @@ Companies with the most open tech roles today, every one checked for sponsorship
 | TikTok | 690 | 449 | [see roles →](https://visaroles.com/companies/tiktok?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Nvidia | 644 | 1,266 | [see roles →](https://visaroles.com/companies/nvidia?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | SpaceX | 571 | — | [see roles →](https://visaroles.com/companies/spacex?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Rockwell Collins | 407 | 107 | [see roles →](https://visaroles.com/companies/rockwell-collins?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | JPMorgan Chase | 373 | 1,833 | [see roles →](https://visaroles.com/companies/jpmorgan-chase?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Rockwell Collins | 355 | 107 | [see roles →](https://visaroles.com/companies/rockwell-collins?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | OpenAI | 330 | 154 | [see roles →](https://visaroles.com/companies/openai?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Oracle | 301 | 665 | [see roles →](https://visaroles.com/companies/oracle-america?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Anthropic | 257 | 158 | [see roles →](https://visaroles.com/companies/anthropic?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | General Motors | 225 | 360 | [see roles →](https://visaroles.com/companies/general-motors?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Apple | 211 | 2,727 | [see roles →](https://visaroles.com/companies/apple?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Micron Technology | 207 | 68 | [see roles →](https://visaroles.com/companies/micron-technology?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Cisco Systems | 199 | 900 | [see roles →](https://visaroles.com/companies/cisco-systems?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | ServiceNow | 199 | 418 | [see roles →](https://visaroles.com/companies/servicenow?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
-| Hewlett Packard Enterprise | 197 | 435 | [see roles →](https://visaroles.com/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Hewlett Packard Enterprise | 199 | 435 | [see roles →](https://visaroles.com/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
+| Micron Technology | 194 | 68 | [see roles →](https://visaroles.com/companies/micron-technology?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Databricks | 186 | 390 | [see roles →](https://visaroles.com/companies/databricks?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Stripe | 178 | 192 | [see roles →](https://visaroles.com/companies/stripe?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
 | Roblox | 176 | 164 | [see roles →](https://visaroles.com/companies/roblox?utm_source=github&utm_medium=readme&utm_campaign=h1b-sponsors) |
